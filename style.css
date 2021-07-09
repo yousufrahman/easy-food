@@ -1,0 +1,30 @@
+font-family: 'Roboto', sans-serif;
+
+
+.yousu{
+    background-image: url(image/7.png);
+    background-color: burlywood;
+    padding-right: 10%;
+}
+.rahman{
+    font-size: 50px;
+    background-image: url(image/7.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.rahi img{
+    background-image: url(image/Frame\ 59.jpg);
+    background-position: right;
+}
+h1{
+ text-align: center;
+ color: crimson;
+}
+.experience-area{
+    background-image: url(image/Frame\ 59.jpg);
+    background-position: center;
+}
+footer{
+    text-align: center;
+}
+
